@@ -1,0 +1,236 @@
+.Judul{
+    background-color: red;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding-top: 23px;
+    padding-bottom: 27px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.judul-1{
+    margin-top: 150px;
+}
+
+.tahap-1{
+  margin-top: 150px;
+  margin-bottom: 50px;
+  font-family: 'Times New Roman';
+}
+
+.tahap-2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: 'Times New Roman';
+}
+
+.sampul{
+  margin: auto;
+  align-items: center;
+}
+    
+    img{
+      height: 300px;
+      width: 300px;
+    }
+  
+    .align-center{
+      display: block;
+      margin: 0px auto;
+    }
+  
+    .pain{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto; 
+    }
+  
+    .itachi{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .tobi{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .sasuke{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .sasori{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .deidara{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .konan{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .karin{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .kisame{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .orochimaru{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .hidan{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .kakuzu{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .jugo{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .suigetsu{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .juzo{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .zetsu{
+      height: 500px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+.gambar-1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.gambar-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.gambar-3{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-4{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-5{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-6{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-7{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-8{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-9{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-10{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-11{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-12{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-13{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-14{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-15{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-16{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.footer{
+    margin-top: 100px;
+}
